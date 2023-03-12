@@ -1,0 +1,21 @@
+:root {
+  font-size: 20px;
+  --hue: 270;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: none;
+  font-family: "ABeeZee", sans-serif;
+  margin: 0;
+  background: #3b4252;
+  color: #eceff4;
+}
